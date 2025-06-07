@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 220,
+  "experience": 0.25,
+  "group": "influx_shard",
+  "ingredient": {
+    "item": "influx:influx_ore"
+  },
+  "result": "influx:influx_shard"
+}

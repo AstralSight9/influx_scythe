@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "influx:crystallized_influx_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "influx:crystallized_influx"
+  }
+}

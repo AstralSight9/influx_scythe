@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "influx:block/influx_ore"
+    }
+  }
+}

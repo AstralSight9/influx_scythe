@@ -1,0 +1,8 @@
+{
+  "values": [
+    "influx:influx_block",
+    "influx:crystallized_influx_block",
+    "influx:influx_ore",
+    "influx:test_block"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "values": [
+    "influx:influx_ore",
+    "influx:influx_ore",
+    "influx:influx_block",
+    "influx:crystallized_influx_block",
+    "influx:black_iron_block"
+  ]
+}

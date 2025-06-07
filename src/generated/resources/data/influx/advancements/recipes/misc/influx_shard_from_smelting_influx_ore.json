@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_influx_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "influx:influx_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "influx:influx_shard_from_smelting_influx_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_influx_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "influx:influx_shard_from_smelting_influx_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

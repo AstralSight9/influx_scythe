@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "influx:block/black_iron_block"
+    }
+  }
+}

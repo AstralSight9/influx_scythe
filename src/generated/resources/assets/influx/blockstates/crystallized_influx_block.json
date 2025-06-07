@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "influx:block/crystallized_influx_block"
+    }
+  }
+}

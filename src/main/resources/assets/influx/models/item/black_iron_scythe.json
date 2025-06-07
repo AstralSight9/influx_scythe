@@ -1,0 +1,254 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "black_iron_scythe",
+		"particle": "black_iron_scythe"
+	},
+	"elements": [
+		{
+			"name": "black_iron_scythe_0",
+			"from": [4, 12, 0],
+			"to": [10, 15, 1],
+			"faces": {
+				"north": {"uv": [10, 1, 4, 4], "texture": "#0"},
+				"east": {"uv": [9, 1, 10, 4], "texture": "#0"},
+				"south": {"uv": [4, 1, 10, 4], "texture": "#0"},
+				"west": {"uv": [4, 1, 5, 4], "texture": "#0"},
+				"up": {"uv": [4, 1, 10, 2], "texture": "#0"},
+				"down": {"uv": [4, 3, 10, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "black_iron_scythe_1",
+			"from": [2, 11, 0],
+			"to": [4, 14, 1],
+			"faces": {
+				"north": {"uv": [4, 2, 2, 5], "texture": "#0"},
+				"east": {"uv": [3, 2, 4, 5], "texture": "#0"},
+				"south": {"uv": [2, 2, 4, 5], "texture": "#0"},
+				"west": {"uv": [2, 2, 3, 5], "texture": "#0"},
+				"up": {"uv": [2, 2, 4, 3], "texture": "#0"},
+				"down": {"uv": [2, 4, 4, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "black_iron_scythe_2",
+			"from": [10, 8, 0],
+			"to": [11, 14, 1],
+			"faces": {
+				"north": {"uv": [11, 2, 10, 8], "texture": "#0"},
+				"east": {"uv": [10, 2, 11, 8], "texture": "#0"},
+				"south": {"uv": [10, 2, 11, 8], "texture": "#0"},
+				"west": {"uv": [10, 2, 11, 8], "texture": "#0"},
+				"up": {"uv": [10, 2, 11, 3], "texture": "#0"},
+				"down": {"uv": [10, 7, 11, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "black_iron_scythe_3",
+			"from": [1, 12, 0],
+			"to": [2, 13, 1],
+			"faces": {
+				"north": {"uv": [2, 3, 1, 4], "texture": "#0"},
+				"east": {"uv": [1, 3, 2, 4], "texture": "#0"},
+				"south": {"uv": [1, 3, 2, 4], "texture": "#0"},
+				"west": {"uv": [1, 3, 2, 4], "texture": "#0"},
+				"up": {"uv": [1, 3, 2, 4], "texture": "#0"},
+				"down": {"uv": [1, 3, 2, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "black_iron_scythe_4",
+			"from": [11, 10, 0],
+			"to": [14, 13, 1],
+			"faces": {
+				"north": {"uv": [14, 3, 11, 6], "texture": "#0"},
+				"east": {"uv": [13, 3, 14, 6], "texture": "#0"},
+				"south": {"uv": [11, 3, 14, 6], "texture": "#0"},
+				"west": {"uv": [11, 3, 12, 6], "texture": "#0"},
+				"up": {"uv": [11, 3, 14, 4], "texture": "#0"},
+				"down": {"uv": [11, 5, 14, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "black_iron_scythe_5",
+			"from": [4, 11, 0],
+			"to": [5, 12, 1],
+			"faces": {
+				"north": {"uv": [5, 4, 4, 5], "texture": "#0"},
+				"east": {"uv": [4, 4, 5, 5], "texture": "#0"},
+				"south": {"uv": [4, 4, 5, 5], "texture": "#0"},
+				"west": {"uv": [4, 4, 5, 5], "texture": "#0"},
+				"up": {"uv": [4, 4, 5, 5], "texture": "#0"},
+				"down": {"uv": [4, 4, 5, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "black_iron_scythe_6",
+			"from": [9, 11, 0],
+			"to": [10, 12, 1],
+			"faces": {
+				"north": {"uv": [10, 4, 9, 5], "texture": "#0"},
+				"east": {"uv": [9, 4, 10, 5], "texture": "#0"},
+				"south": {"uv": [9, 4, 10, 5], "texture": "#0"},
+				"west": {"uv": [9, 4, 10, 5], "texture": "#0"},
+				"up": {"uv": [9, 4, 10, 5], "texture": "#0"},
+				"down": {"uv": [9, 4, 10, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "black_iron_scythe_7",
+			"from": [9, 7, 0],
+			"to": [10, 10, 1],
+			"faces": {
+				"north": {"uv": [10, 6, 9, 9], "texture": "#0"},
+				"east": {"uv": [9, 6, 10, 9], "texture": "#0"},
+				"south": {"uv": [9, 6, 10, 9], "texture": "#0"},
+				"west": {"uv": [9, 6, 10, 9], "texture": "#0"},
+				"up": {"uv": [9, 6, 10, 7], "texture": "#0"},
+				"down": {"uv": [9, 8, 10, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "black_iron_scythe_8",
+			"from": [11, 9, 0],
+			"to": [13, 10, 1],
+			"faces": {
+				"north": {"uv": [13, 6, 11, 7], "texture": "#0"},
+				"east": {"uv": [12, 6, 13, 7], "texture": "#0"},
+				"south": {"uv": [11, 6, 13, 7], "texture": "#0"},
+				"west": {"uv": [11, 6, 12, 7], "texture": "#0"},
+				"up": {"uv": [11, 6, 13, 7], "texture": "#0"},
+				"down": {"uv": [11, 6, 13, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "black_iron_scythe_9",
+			"from": [8, 6, 0],
+			"to": [9, 9, 1],
+			"faces": {
+				"north": {"uv": [9, 7, 8, 10], "texture": "#0"},
+				"east": {"uv": [8, 7, 9, 10], "texture": "#0"},
+				"south": {"uv": [8, 7, 9, 10], "texture": "#0"},
+				"west": {"uv": [8, 7, 9, 10], "texture": "#0"},
+				"up": {"uv": [8, 7, 9, 8], "texture": "#0"},
+				"down": {"uv": [8, 9, 9, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "black_iron_scythe_10",
+			"from": [7, 5, 0],
+			"to": [8, 8, 1],
+			"faces": {
+				"north": {"uv": [8, 8, 7, 11], "texture": "#0"},
+				"east": {"uv": [7, 8, 8, 11], "texture": "#0"},
+				"south": {"uv": [7, 8, 8, 11], "texture": "#0"},
+				"west": {"uv": [7, 8, 8, 11], "texture": "#0"},
+				"up": {"uv": [7, 8, 8, 9], "texture": "#0"},
+				"down": {"uv": [7, 10, 8, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "black_iron_scythe_11",
+			"from": [6, 4, 0],
+			"to": [7, 7, 1],
+			"faces": {
+				"north": {"uv": [7, 9, 6, 12], "texture": "#0"},
+				"east": {"uv": [6, 9, 7, 12], "texture": "#0"},
+				"south": {"uv": [6, 9, 7, 12], "texture": "#0"},
+				"west": {"uv": [6, 9, 7, 12], "texture": "#0"},
+				"up": {"uv": [6, 9, 7, 10], "texture": "#0"},
+				"down": {"uv": [6, 11, 7, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "black_iron_scythe_12",
+			"from": [5, 3, 0],
+			"to": [6, 6, 1],
+			"faces": {
+				"north": {"uv": [6, 10, 5, 13], "texture": "#0"},
+				"east": {"uv": [5, 10, 6, 13], "texture": "#0"},
+				"south": {"uv": [5, 10, 6, 13], "texture": "#0"},
+				"west": {"uv": [5, 10, 6, 13], "texture": "#0"},
+				"up": {"uv": [5, 10, 6, 11], "texture": "#0"},
+				"down": {"uv": [5, 12, 6, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "black_iron_scythe_13",
+			"from": [4, 2, 0],
+			"to": [5, 5, 1],
+			"faces": {
+				"north": {"uv": [5, 11, 4, 14], "texture": "#0"},
+				"east": {"uv": [4, 11, 5, 14], "texture": "#0"},
+				"south": {"uv": [4, 11, 5, 14], "texture": "#0"},
+				"west": {"uv": [4, 11, 5, 14], "texture": "#0"},
+				"up": {"uv": [4, 11, 5, 12], "texture": "#0"},
+				"down": {"uv": [4, 13, 5, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "black_iron_scythe_14",
+			"from": [3, 1, 0],
+			"to": [4, 4, 1],
+			"faces": {
+				"north": {"uv": [4, 12, 3, 15], "texture": "#0"},
+				"east": {"uv": [3, 12, 4, 15], "texture": "#0"},
+				"south": {"uv": [3, 12, 4, 15], "texture": "#0"},
+				"west": {"uv": [3, 12, 4, 15], "texture": "#0"},
+				"up": {"uv": [3, 12, 4, 13], "texture": "#0"},
+				"down": {"uv": [3, 14, 4, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "black_iron_scythe_15",
+			"from": [2, 1, 0],
+			"to": [3, 3, 1],
+			"faces": {
+				"north": {"uv": [3, 13, 2, 15], "texture": "#0"},
+				"east": {"uv": [2, 13, 3, 15], "texture": "#0"},
+				"south": {"uv": [2, 13, 3, 15], "texture": "#0"},
+				"west": {"uv": [2, 13, 3, 15], "texture": "#0"},
+				"up": {"uv": [2, 13, 3, 14], "texture": "#0"},
+				"down": {"uv": [2, 14, 3, 15], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 47],
+			"translation": [-12.25, 7, 1.75],
+			"scale": [1.65, 1.65, 1.65]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -47],
+			"translation": [12.25, 7, 1.75],
+			"scale": [1.65, 1.65, 1.65]
+		},
+		"firstperson_righthand": {
+			"rotation": [-40, -90, 0],
+			"translation": [-8.75, 2, 0],
+			"scale": [1.65, 1.65, 1.65]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-40, 90, 0],
+			"translation": [16, 2, 0],
+			"scale": [1.65, 1.65, 1.65]
+		},
+		"ground": {
+			"translation": [0, 5, 0]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 0, -7]
+		}
+	},
+	"groups": [
+		{
+			"name": "black_iron_scythe",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+		}
+	]
+}

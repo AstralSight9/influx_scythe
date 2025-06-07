@@ -1,0 +1,6 @@
+{
+  "values": [
+    "influx:influx_ore",
+    "#forge:ores"
+  ]
+}
